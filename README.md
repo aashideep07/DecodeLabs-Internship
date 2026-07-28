@@ -1,14 +1,21 @@
-# DecodeLabs Internship
+# Project 2: Exploratory Data Analysis (EDA)
 
-## Week 1 - Data Cleaning
+## Objective
+To analyze the dataset and find patterns, trends and insights using data visualization.
 
-This project focuses on cleaning a raw dataset using Microsoft Excel.
+## Tools Used
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
 
-### Tasks Performed
-- Handled missing values
-- Checked and removed duplicate records
-- Corrected data formats
-- Saved the cleaned dataset
+## Work Done
+- Loaded the dataset
+- Checked data information
+- Analyzed data patterns
+- Created different visualizations
+- Generated insights
 
-### Tools Used
-- Microsoft Excel
+## Conclusion
+The analysis helped in understanding the dataset and identifying useful patterns.
