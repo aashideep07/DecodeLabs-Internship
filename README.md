@@ -77,3 +77,26 @@ E-commerce Sales Dataset
 
 ## Outcome
 Successfully analyzed the dataset using SQL in Google Colab and generated useful business insights.
+
+
+# Project 4: Data Visualization
+
+## Objective
+To visualize data using charts and graphs to identify trends, patterns, and insights from the e-commerce dataset.
+
+## Tools Used
+- Google Colab
+- Python
+- Pandas
+- Matplotlib
+
+## Visualizations Created
+- Bar Chart – Product-wise Total Sales
+- Pie Chart – Payment Method Distribution
+- Line Chart – Sales Trend Over Time
+- Bar Chart – Order Status Distribution
+- Bar Chart – Top 5 Products by Revenue
+- Histogram – Total Price Distribution
+
+## Outcome
+Successfully created multiple visualizations to analyze sales trends, customer behavior, and product performance.
